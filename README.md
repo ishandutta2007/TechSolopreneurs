@@ -14,15 +14,15 @@ A curated list of top tech solopreneurs, indie hackers, creators, and open-sourc
 
 | Name | Username | Products (Product ARR / MRR) | Total Revenue (ARR) | Business Expense | Profit Margin |
 | :--- | :------- | :--------------------------- | :------------------ | :--------------- | :------------ |
-| Pieter Levels | levelsio | Photo AI (~$1.65M / $138K/mo) | ~$2.9M | 5% | 95% |
-|               |          | Remote OK (~$500K / $41K/mo) |        |    |     |
-|               |          | Interior AI (~$480K / $40K/mo) |        |    |     |
-|               |          | Nomad List (~$264K / $22K/mo) |        |    |     |
 | Gary Brewer | garybrewer | BuiltWith ($14M+) | $14M+ | 5% | 95% |
 | Amit Agarwal | labnol | YouTube Uploader ($3.1M) | $9.8M | 5% | 95% |
 |              |        | Document Studio ($2.6M) |       |    |     |
 |              |        | Email Notifications for Google Forms ($2.5M) |       |    |     |
 |              |        | Mail Merge for Gmail ($1.6M) |       |    |     |
+| Pieter Levels | levelsio | Photo AI (~$1.65M / $138K/mo) | ~$2.9M | 5% | 95% |
+|               |          | Remote OK (~$500K / $41K/mo) |        |    |     |
+|               |          | Interior AI (~$480K / $40K/mo) |        |    |     |
+|               |          | Nomad List (~$264K / $22K/mo) |        |    |     |
 
 ## Tech Bloggers
 
