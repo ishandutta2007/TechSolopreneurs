@@ -24,16 +24,18 @@
 
 ## Tech Blogger
 
+
 | Name          | Blog    | Niche | Revnue(ARR)  | Business Expense  | Profit Margin |
-| :------------ | :---------- | :----------- | :---------------- |:------------- |
-| Amit Agarwal  | https://www.labnol.org/ |  $800K    | How to Techs |          5%        |     95%       |
-| Harsh Agrawal | https://www.shoutmeloud.com/ |  $600K    | SaaS Hunting |        5%        |     95%       |
+| :------------ | :---------- | :----------- | :---------------- | :------------- |
+| Amit Agarwal  | https://labnol.org |  $800K    | How to Techs |      5%        |     95%       |
+| Harsh Agrawal | https://shoutmeloud.com |  $600K  | SaaS Hunting |   5%        |     95%       |
+
 
 
 ## Tech Vloger/Yotuber
 
 | Name            | Channel     | Niche | Revnue(ARR)  | Business Expense | Profit Margin |
-| :-------------- | :---------- | :---- | :----------- |:---------------- |:------------- |
+| :-------------- | :---------- | :---- | :----------- | :---------------- | :------------- |
 | Grant Sanderson | 3b1b        | Maths & AI   |  $2M  |     5%           |     95%       |
 | Derek Muller    | veritasium  | Physics      | $4M  |      50%          |     50%       |
 |                 | ThePrimeagen| Programming  | $4M  |      50%          |     50%       |
