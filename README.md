@@ -45,5 +45,15 @@
 | Eevee           | Eevee (EEVblog) | Electronics | -  |      50%          |     50%       |
 | Brian Haidet  | AlphaPhoenix | Physics|  -  |      50%          |     50%       |
 |Dr. Mithuna Yoganathan | Looking Glass Universe | Quantum mechanics| -  |      50%          |     50%       |
+| **Grant Sanderson** | 3Blue1Brown | Applied Mathematics & Neural Networks | $500,000 |      50%          |     50%       |
+| **Derek Muller** | Veritasium | Physics & Counter-Intuitive Science | $3,250,000 |      50%          |     50%       |
+| **Shane Wighton** | Stuff Made Here | Mechanical, Mechatronics & Software Engineering | $900,000 |      50%          |     50%       |
+| **Ben Eater** | Ben Eater | Hardware Architecture & 8-Bit Computing | $250,000 |      50%          |     50%       |
+| **Jon Koo** | Asianometry | Semiconductor Physics, Lithography & Supply Chains | $250,000 |      50%          |     50%       |
+| **Matt O'Dowd** | PBS Space Time | Astrophysics, Quantum Mechanics & Relativity | $550,000 |      50%          |     50%       |
+| **Brady Haran** | Numberphile | Pure Mathematics, Number Theory & Topology | $290,000 |      50%          |     50%       |
+| **Brady Haran** | Computerphile | Cryptography, Algorithms & CS Theory | $200,000 |      50%          |     50%       |
+| **Josh Starmer** | StatQuest with Josh Starmer | Statistics, Machine Learning & Transformer Math | $175,000 |      50%          |     50%       |
+| **LiveOverflow** | LiveOverflow | Binary Exploitation & Reverse Engineering | $140,000 |      50%          |     50%       |
 
 
