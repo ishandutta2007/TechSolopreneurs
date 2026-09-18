@@ -15,14 +15,14 @@ A curated list of top tech solopreneurs, indie hackers, creators, and open-sourc
 | Name | Username | Products | Revenue (ARR) | Business Expense | Profit Margin |
 | :--- | :------- | :------- | :------------ | :--------------- | :------------ |
 | Pieter Levels | levelsio | Photo AI | ~$1.65M ($138K/mo) | 5% | 95% |
-| Pieter Levels | levelsio | Remote OK | ~$500K ($41K/mo) | 5% | 95% |
-| Pieter Levels | levelsio | Interior AI | ~$480K ($40K/mo) | 5% | 95% |
-| Pieter Levels | levelsio | Nomad List | ~$264K ($22K/mo) | 5% | 95% |
+|               |          | Remote OK | ~$500K ($41K/mo) | 5% | 95% |
+|               |          | Interior AI | ~$480K ($40K/mo) | 5% | 95% |
+|               |          | Nomad List | ~$264K ($22K/mo) | 5% | 95% |
 | Gary Brewer | garybrewer | BuiltWith | $14M+ | 5% | 95% |
 | Amit Agarwal | labnol | YouTube Uploader | $3.1M | 5% | 95% |
-| Amit Agarwal | labnol | Document Studio | $2.6M | 5% | 95% |
-| Amit Agarwal | labnol | Email Notifications for Google Forms | $2.5M | 5% | 95% |
-| Amit Agarwal | labnol | Mail Merge for Gmail | $1.6M | 5% | 95% |
+|              |        | Document Studio | $2.6M | 5% | 95% |
+|              |        | Email Notifications for Google Forms | $2.5M | 5% | 95% |
+|              |        | Mail Merge for Gmail | $1.6M | 5% | 95% |
 
 ## Tech Bloggers
 
