@@ -25,8 +25,8 @@
 ## Tech Blogger
 
 
-| Name          | Blog    | Niche | Revnue(ARR)  | Business Expense  | Profit Margin |
-| :------------ | :---------- | :----------- | :---------------- | :------------- |
+| Name          | Blog        | Niche        | Revnue(ARR)       | Business Expense | Profit Margin |
+| :------------ | :---------- | :----------- | :---------------- | :--------------- | :------------ |
 | Amit Agarwal  | https://labnol.org |  $800K    | How to Techs |      5%        |     95%       |
 | Harsh Agrawal | https://shoutmeloud.com |  $600K  | SaaS Hunting |   5%        |     95%       |
 
