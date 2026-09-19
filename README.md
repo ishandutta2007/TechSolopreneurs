@@ -22,6 +22,7 @@ This repository tracks self-reported and verified annual recurring revenue (ARR)
 - [MicroSaaS Founders](#microsaas-founders)
 - [Tech Bloggers](#tech-bloggers)
 - [Tech Vloggers / YouTubers](#tech-vloggers--youtubers)
+- [Star History](#star-history)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -103,6 +104,12 @@ This repository tracks self-reported and verified annual recurring revenue (ARR)
 | Brian Haidet | AlphaPhoenix | Applied Physics, Optics & High-Speed Experiments | $100K - $150K | 10% | 90% |
 | Dr. Mithuna Yoganathan | Looking Glass Universe | Quantum Mechanics & Theoretical Physics | $50K - $100K | 5% | 95% |
 | Alexey Kutepov | Tsoding | Recreational Programming & Systems Engineering | $40K - $60K | 5% | 95% |
+
+---
+
+## Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/TechSolopreneurs&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/TechSolopreneurs&type=date&legend=top-left)
 
 ---
 
