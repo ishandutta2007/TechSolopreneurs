@@ -1,6 +1,31 @@
-# TechSolopreneurs
+# TechSolopreneurs 🚀
 
-A curated list of top tech solopreneurs, indie hackers, creators, and open-source developers who run profitable businesses solo or with ultra-lean setups.
+> A curated list of top tech solopreneurs, indie hackers, micro-SaaS founders, open-source maintainers, and digital creators running high-profit solo software businesses without teams or employees.
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/TechSolopreneurs)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Overview
+
+This repository tracks self-reported and verified annual recurring revenue (ARR), monthly recurring revenue (MRR), business expenses, and profit margins for one-person technology businesses across four major sectors:
+
+- **Open Source, Extensions & Plugins**: Software developers selling commercial licenses, pro extensions, or receiving sponsorships.
+- **MicroSaaS Founders**: Solo indie hackers operating recurring subscription tools or B2B platforms.
+- **Tech Bloggers**: Sovereign analysts and technical writers monetizing newsletters and blogs.
+- **Tech Vloggers / YouTubers**: Solo science, engineering, and programming content creators.
+
+---
+
+## Table of Contents
+
+- [GitHub / Open Source, Extensions & Plugins](#github--open-source-extensions--plugins)
+- [MicroSaaS Founders](#microsaas-founders)
+- [Tech Bloggers](#tech-bloggers)
+- [Tech Vloggers / YouTubers](#tech-vloggers--youtubers)
+- [Contributing](#contributing)
+- [License](#license)
+
+---
 
 ## GitHub / Open Source, Extensions & Plugins
 
@@ -78,3 +103,18 @@ A curated list of top tech solopreneurs, indie hackers, creators, and open-sourc
 | Brian Haidet | AlphaPhoenix | Applied Physics, Optics & High-Speed Experiments | $100K - $150K | 10% | 90% |
 | Dr. Mithuna Yoganathan | Looking Glass Universe | Quantum Mechanics & Theoretical Physics | $50K - $100K | 5% | 95% |
 | Alexey Kutepov | Tsoding | Recreational Programming & Systems Engineering | $40K - $60K | 5% | 95% |
+
+---
+
+## Contributing
+
+Contributions are welcome! If you know a verified tech solopreneur, indie hacker, open-source maintainer, or solo creator who operates a high-profit business without employees, feel free to open a Pull Request.
+
+Please follow these guidelines:
+1. Ensure the individual operates solo (or ultra-lean without a traditional team).
+2. Provide verified or publicly self-reported revenue metrics (ARR/MRR).
+3. Keep formatting consistent with existing tables.
+
+## License
+
+[MIT](LICENSE) © Ishan Dutta
