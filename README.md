@@ -7,6 +7,7 @@ A curated list of top tech solopreneurs, indie hackers, creators, and open-sourc
 | Name | Username | Project(s) | Revenue (ARR) | Business Expense | Profit Margin |
 | :--- | :------- | :--------- | :------------ | :--------------- | :------------ |
 | Michael Gundlach | michaelgundlach | AdBlock | $4M | 0% | 100% |
+| Mike Perham | mperham | Sidekiq (Sidekiq Pro & Enterprise) | ~$3M - $5M | 5% | 95% |
 | Evan You | yyx990803 | Vue.js, Vite | ~$500K | 0% | 100% |
 | Caleb Porzio | calebporzio | Livewire, Alpine.js | $200K+ | 0% | 100% |
 | Anthony Fu | antfu | UnoCSS, Vitest, VueUse, Slidev | ~$150K+ | 0% | 100% |
@@ -27,9 +28,15 @@ A curated list of top tech solopreneurs, indie hackers, creators, and open-sourc
 |               |          | Remote OK (~$500K / $41K/mo) |        |    |     |
 |               |          | Interior AI (~$480K / $40K/mo) |        |    |     |
 |               |          | Nomad List (~$264K / $22K/mo) |        |    |     |
+| Damon Chen | damengchen | Testimonial.to (~$2M / $170K/mo) | ~$2.4M | 10% | 90% |
+|            |            | PDF.ai (~$400K) |        |    |     |
+| Tony Dinh | tdinh_me | TypingMind (~$1.8M / $150K/mo) | ~$1.9M | 5% | 95% |
+|           |          | DevUtils (~$100K) |        |    |     |
 | Marc Lou | marc_louvion | ShipFast (~$600K) | ~$1.5M | 5% | 95% |
 |          |              | DataFast (~$500K) |        |    |     |
 |          |              | TrustMRR (~$400K) |        |    |     |
+| Tim Bennetto | pallyyapp | Pallyy (~$1.2M / $85K/mo) | ~$1.2M | 10% | 90% |
+| Jon Yongfook | yongfook | Bannerbear (~$1M / $80K/mo) | ~$1M | 10% | 90% |
 
 ## Tech Bloggers
 
