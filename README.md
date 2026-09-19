@@ -1,36 +1,44 @@
+![TechSolopreneurs Banner](./assets/banner.svg)
+
 # TechSolopreneurs 🚀
 
 > A curated list of top tech solopreneurs, indie hackers, micro-SaaS founders, open-source maintainers, and digital creators running high-profit solo software businesses without teams or employees.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/ishandutta2007/TechSolopreneurs)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<p align="left">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-## Overview
+## 📌 Overview
 
 This repository tracks self-reported and verified annual recurring revenue (ARR), monthly recurring revenue (MRR), business expenses, and profit margins for one-person technology businesses across four major sectors:
 
-- **Open Source, Extensions & Plugins**: Software developers selling commercial licenses, pro extensions, or receiving sponsorships.
-- **MicroSaaS Founders**: Solo indie hackers operating recurring subscription tools or B2B platforms.
-- **Tech Bloggers**: Sovereign analysts and technical writers monetizing newsletters and blogs.
-- **Tech Vloggers / YouTubers**: Solo science, engineering, and programming content creators.
+- **📦 Open Source, Extensions & Plugins**: Software developers selling commercial licenses, pro extensions, or receiving sponsorships.
+- **⚡ MicroSaaS Founders**: Solo indie hackers operating recurring subscription tools or B2B platforms.
+- **📝 Tech Bloggers**: Sovereign analysts and technical writers monetizing newsletters and blogs.
+- **🎥 Tech Vloggers / YouTubers**: Solo science, engineering, and programming content creators.
 
 ---
 
-## Table of Contents
+## 📑 Table of Contents
 
-- [GitHub / Open Source, Extensions & Plugins](#github--open-source-extensions--plugins)
-- [MicroSaaS Founders](#microsaas-founders)
-- [Tech Bloggers](#tech-bloggers)
-- [Tech Vloggers / YouTubers](#tech-vloggers--youtubers)
-- [Star History](#star-history)
-- [Contributing](#contributing)
-- [License](#license)
+- [📦 GitHub / Open Source, Extensions & Plugins](#-github--open-source-extensions--plugins)
+- [⚡ MicroSaaS Founders](#-microsaas-founders)
+- [📝 Tech Bloggers](#-tech-bloggers)
+- [🎥 Tech Vloggers / YouTubers](#-tech-vloggers--youtubers)
+- [📈 Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [🤝 Contributing](#-contributing)
+- [📜 License](#-license)
 
 ---
 
-## GitHub / Open Source, Extensions & Plugins
+## 📦 GitHub / Open Source, Extensions & Plugins
 
-| Name | Username | Project(s) | Revenue (ARR) | Business Expense | Profit Margin |
+| 👤 Name | 🏷️ Username | 🛠️ Project(s) | 💰 Revenue (ARR) | 📉 Business Expense | 📈 Profit Margin |
 | :--- | :------- | :--------- | :------------ | :--------------- | :------------ |
 | Michael Gundlach | michaelgundlach | AdBlock | $4M | 0% | 100% |
 | Mike Perham | mperham | Sidekiq (Sidekiq Pro & Enterprise) | ~$3M - $5M | 5% | 95% |
@@ -44,9 +52,9 @@ This repository tracks self-reported and verified annual recurring revenue (ARR)
 | Sindre Sorhus | sindresorhus | Open-Source Packages (Chalk, Refined GitHub) | $100K+ | 0% | 100% |
 | Erwin Lengkeek | erwinlengkeek | Tailscan (Tailwind DevTool Extension) | ~$40K | 5% | 95% |
 
-## MicroSaaS Founders
+## ⚡ MicroSaaS Founders
 
-| Name | Username | Products (Product ARR / MRR) | Total Revenue (ARR) | Business Expense | Profit Margin |
+| 👤 Name | 🏷️ Username | ⚙️ Products (Product ARR / MRR) | 💵 Total Revenue (ARR) | 📉 Business Expense | 📈 Profit Margin |
 | :--- | :------- | :--------------------------- | :------------------ | :--------------- | :------------ |
 | Gary Brewer | garybrewer | BuiltWith ($14M+) | $14M+ | 5% | 95% |
 | Amit Agarwal | labnol | YouTube Uploader ($3.1M) | $9.8M | 5% | 95% |
@@ -69,9 +77,9 @@ This repository tracks self-reported and verified annual recurring revenue (ARR)
 | Tim Bennetto | pallyyapp | Pallyy (~$1.2M / $85K/mo) | ~$1.2M | 10% | 90% |
 | Jon Yongfook | yongfook | Bannerbear (~$1M / $80K/mo) | ~$1M | 10% | 90% |
 
-## Tech Bloggers
+## 📝 Tech Bloggers
 
-| Name | Blog | Niche | Revenue (ARR) | Business Expense | Profit Margin |
+| 👤 Name | 🌐 Blog | 🎯 Niche | 💰 Revenue (ARR) | 📉 Business Expense | 📈 Profit Margin |
 | :--- | :--- | :---- | :------------ | :--------------- | :------------ |
 | Ben Thompson | https://stratechery.com | Tech Strategy, Media & Business Analysis | ~$3M - $5M | 5% | 95% |
 | Gergely Orosz | https://pragmaticengineer.com | Big Tech Engineering, Architecture & Career Growth | ~$2.8M | 5% | 95% |
@@ -79,9 +87,9 @@ This repository tracks self-reported and verified annual recurring revenue (ARR)
 | John Gruber | https://daringfireball.net | Apple Ecosystem, UI/UX & Web Standards (Markdown) | ~$600K | 5% | 95% |
 | Harsh Agrawal | https://shoutmeloud.com | Blogging, SEO & Affiliate Marketing | $600K | 5% | 95% |
 
-## Tech Vloggers / YouTubers
+## 🎥 Tech Vloggers / YouTubers
 
-| Name | Channel | Niche | Revenue (ARR) | Business Expense | Profit Margin |
+| 👤 Name | 📺 Channel | 🎯 Niche | 💰 Revenue (ARR) | 📉 Business Expense | 📈 Profit Margin |
 | :--- | :------ | :---- | :------------ | :--------------- | :------------ |
 | Mark Rober | Mark Rober | Mechanical Engineering & STEM Inventions | $25M+ | 15% | 85% |
 | Derek Muller | Veritasium | Physics & Counter-Intuitive Science | $3.25M - $4M | 10% | 90% |
@@ -107,13 +115,24 @@ This repository tracks self-reported and verified annual recurring revenue (ARR)
 
 ---
 
-## Star History
+## 📈 Star History
 
 [![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/TechSolopreneurs&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/TechSolopreneurs&type=date&legend=top-left)
 
 ---
 
-## Contributing
+## 💖 Support & Sponsorship
+
+Thank you for visiting **TechSolopreneurs**! If you find this repository valuable or inspiring for your indie hacker journey, please consider supporting the project:
+
+- ⭐ **Star** this repository to help others discover it!
+- 🍴 **Fork** and contribute new solo founders or revenue metrics.
+- 📢 **Share** with fellow developers, creators, and entrepreneurs.
+- ☕ [**Sponsor / Buy me a coffee**](https://github.com/sponsors/ishandutta2007) to support ongoing curation and open-source projects!
+
+---
+
+## 🤝 Contributing
 
 Contributions are welcome! If you know a verified tech solopreneur, indie hacker, open-source maintainer, or solo creator who operates a high-profit business without employees, feel free to open a Pull Request.
 
@@ -122,6 +141,6 @@ Please follow these guidelines:
 2. Provide verified or publicly self-reported revenue metrics (ARR/MRR).
 3. Keep formatting consistent with existing tables.
 
-## License
+## 📜 License
 
 [MIT](LICENSE) © Ishan Dutta
