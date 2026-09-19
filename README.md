@@ -2,7 +2,7 @@
 
 A curated list of top tech solopreneurs, indie hackers, creators, and open-source developers who run profitable businesses solo or with ultra-lean setups.
 
-## GitHub / Google Code Open Source
+## GitHub / Open Source, Extensions & Plugins
 
 | Name | Username | Project(s) | Revenue (ARR) | Business Expense | Profit Margin |
 | :--- | :------- | :--------- | :------------ | :--------------- | :------------ |
@@ -10,8 +10,13 @@ A curated list of top tech solopreneurs, indie hackers, creators, and open-sourc
 | Mike Perham | mperham | Sidekiq (Sidekiq Pro & Enterprise) | ~$3M - $5M | 5% | 95% |
 | Evan You | yyx990803 | Vue.js, Vite | ~$500K | 0% | 100% |
 | Caleb Porzio | calebporzio | Livewire, Alpine.js | $200K+ | 0% | 100% |
+| Jason Savard | jasonsavard | Checker Plus (Gmail, Calendar, Drive) | ~$200K | 0% | 100% |
+| Maciej Mensfeld | mensfeld | Karafka (Karafka Pro) | ~$150K - $300K | 5% | 95% |
 | Anthony Fu | antfu | UnoCSS, Vitest, VueUse, Slidev | ~$150K+ | 0% | 100% |
+| Alexander Pletnev | alexanderby | Dark Reader (Extension & Safari App) | ~$120K | 0% | 100% |
+| Zeno Rocha | zenorocha | Dracula Theme & Dracula PRO | ~$100K+ | 5% | 95% |
 | Sindre Sorhus | sindresorhus | Open-Source Packages (Chalk, Refined GitHub) | $100K+ | 0% | 100% |
+| Erwin Lengkeek | erwinlengkeek | Tailscan (Tailwind DevTool Extension) | ~$40K | 5% | 95% |
 
 ## MicroSaaS Founders
 
